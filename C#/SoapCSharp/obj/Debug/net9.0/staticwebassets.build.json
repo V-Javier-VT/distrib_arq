@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fki58GIp3+z3vl8OKJl4DociB8vO9BeuhEWM/QXHKqM=",
+  "Source": "SoapCSharp",
+  "BasePath": "_content/SoapCSharp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
